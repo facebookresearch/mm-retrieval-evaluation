@@ -1,0 +1,4 @@
+data/predictions.zip filter=lfs diff=lfs merge=lfs -text
+data/fire_aggregated_dataset.json filter=lfs diff=lfs merge=lfs -text
+data/fire_msrvtt_dataset.json filter=lfs diff=lfs merge=lfs -text
+data/fire_msvd_dataset.json filter=lfs diff=lfs merge=lfs -text

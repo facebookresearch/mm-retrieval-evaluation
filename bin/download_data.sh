@@ -38,4 +38,6 @@ cd ..
 # cd ..
 
 # wget predictions.zip
-# unzip predictions.zip
+cp data/predictions.zip .
+unzip predictions.zip
+rm predictions.zip

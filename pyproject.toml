@@ -19,7 +19,7 @@ altair-saver = "^0.5.0"
 pedroai = "^0.3.0"
 torch = "^1.11.0"
 krippendorff = "^0.5.1"
-jupyterlab = "^3.4.0"
+jupyterlab = "^3.4.5"
 rbo = "^0.1.2"
 tabulate = "^0.8.9"
 rich = {extras = ["jupyter"], version = "^12.4.1"}
@@ -33,8 +33,6 @@ pandasql = "^0.7.3"
 ipython = "^7.30.0"
 black = "^21.11b1"
 pylint = "^2.12.1"
-jupyter = "^1.0.0"
-jupyter-http-over-ws = "^0.0.8"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
